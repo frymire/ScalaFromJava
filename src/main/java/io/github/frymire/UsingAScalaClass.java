@@ -1,13 +1,11 @@
 package io.github.frymire;
 
-import io.github.frymire.AScalaClass;
-import io.github.frymire.AScalaClass$;
+import static io.github.frymire.AScalaClass.PI;
+import static io.github.frymire.AScalaClass.youSuck;
+
 import scala.Function1;
 import scala.Tuple2;
 import scala.runtime.AbstractFunction1;
-
-import static io.github.frymire.AScalaClass.youSuck;
-import static io.github.frymire.AScalaClass.PI;
 
 public class UsingAScalaClass {
 
