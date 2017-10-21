@@ -1,3 +1,4 @@
+package io.github.frymire;
 
 public class JavaClassWithTrait implements AScalaTrait {
 

@@ -1,9 +1,9 @@
+package io.github.frymire
 
 trait AScalaTrait { 
   def value: Any
   def printValue = println(value) 
 }
-
 
 class AScalaClass {  
   val valMember = 42;
@@ -11,7 +11,6 @@ class AScalaClass {
   def sayHello = println("Hello (class)")  
   def getATuple = (1, 2)     
 }
-
 
 object AScalaClass {
   val PI = 3.14
